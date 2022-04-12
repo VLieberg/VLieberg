@@ -23,30 +23,5 @@ I'm Vanessa Lieberg, a Chemical Engineer with financial markets experience. Enth
 
 -   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
 
--   **[Portfolio Management of US Stocks](https://github.com/FelipeBuongermino/olympic-sports-medals.git)**
-      Data analysis of Summer Olympic Games, using pandas and Matplotlib. Visualization of graphs on the performance of countries, athletes, modalities and genres.
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**VLieberg/VLieberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **[Portfolio Management of US Stocks](https://github.com/VLieberg/Stocks_Market_USA.git)**
+      Portfolio management of all the stocks in the US market. Calculate ROI, build Markovitz frontier and chosing the best stock to invest.
