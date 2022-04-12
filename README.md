@@ -1,9 +1,10 @@
 ## Vanessa Lieberg
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.buongermino@gmail.com)](mailto:felipe.buongermino@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-buongermino/)](https://www.linkedin.com/in/felipe-buongermino/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlieberg@gmail.com)](mailto:vlieberg@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://linkedin.com/in/vanessa-lieberg/)](https://https://www.linkedin.com/in/vanessa-lieberg/)
 
-Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passionate self learner. Enthusiastic in Data science and Data Analytics. Looking for job opportunities to work on Data Science field. Fascinated in solving problems and accepting new challenges.
+Hello there!  👋
+I'm Vanessa Lieberg, a Chemical Engineer with financial markets experience. Enthusiastic in Data science and Data Analytics,  and a passionate self learner. Looking for projects to work on Data Science field. Fascinated in solving problems and accepting new challenges.
 
 
 
@@ -22,7 +23,7 @@ Hello there! I'm Felipe Buongermino, a Materials Science Engineer and a passiona
 
 -   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
 
--   **[Data Analysis – Summer Olympic Games (1896 - 2012):](https://github.com/FelipeBuongermino/olympic-sports-medals.git)**
+-   **[Portfolio Management of US Stocks](https://github.com/FelipeBuongermino/olympic-sports-medals.git)**
       Data analysis of Summer Olympic Games, using pandas and Matplotlib. Visualization of graphs on the performance of countries, athletes, modalities and genres.
 
 
