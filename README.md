@@ -1,7 +1,7 @@
 ## Vanessa Lieberg
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlieberg@gmail.com)](mailto:vlieberg@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://linkedin.com/in/vanessa-lieberg/)](https://https://www.linkedin.com/in/vanessa-lieberg/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessa-lieberg/)](https://www.linkedin.com/in/vanessa-lieberg)
 
 Hello there!  👋
 I'm Vanessa Lieberg, a Chemical Engineer with financial markets experience. Enthusiastic in Data science and Data Analytics,  and a passionate self learner. Looking for projects to work on Data Science field. Fascinated in solving problems and accepting new challenges.
