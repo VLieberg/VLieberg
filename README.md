@@ -21,7 +21,8 @@ I'm Vanessa Lieberg, a Chemical Engineer with financial markets experience. Enth
 
 ### Recent Projects
 
--   **[Commodity and Data Science – Predicting the next 23 daily prices for Soybean commodity:](https://github.com/VLieberg/project_commodity_prices.git)**
-
--   **[Portfolio Management of US Stocks](https://github.com/VLieberg/Stocks_Market_USA.git)**
+-   **[Commodity Futures Market – Predicting the next month price for Soybeans](https://github.com/VLieberg/project_commodity_prices.git)** \
+      Predict soybeans price using AI models.
+      
+-   **[Portfolio Management of US Stocks](https://github.com/VLieberg/Stocks_Market_USA.git)** \
       Portfolio management of all the stocks in the US market. Calculate ROI, build Markovitz frontier and chosing the best stock to invest.
